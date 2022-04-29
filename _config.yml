@@ -53,7 +53,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
